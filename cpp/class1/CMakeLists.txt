@@ -1,4 +1,6 @@
 add_executable(permutation permutation.cpp)
 add_executable(combination combination.cpp)
 add_executable(removeContinuousSpaces removeContinuousSpaces.cpp)
-
+add_executable(mergeN mergeN.cpp)
+add_executable(iprange iprange.cpp)
+add_executable(partition partition.cpp)
