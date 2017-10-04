@@ -13,3 +13,4 @@ include_directories(${Boost_INCLUDE_DIRS})
 include_directories(${PROJECT_SOURCE_DIR})
 
 add_subdirectory(class1)
+add_subdirectory(leetcode)
